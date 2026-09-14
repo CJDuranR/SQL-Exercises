@@ -1,4 +1,4 @@
-Please refer to the project included in the projects\_sql folder titled 'query\_top\_paying\_job\_skills'.
+Please refer to the project included in the projects\_sql folder titled 'query_top_paying_job_skills'.
 
 
 
@@ -10,7 +10,7 @@ I analyzed the skills required across the ***highest-paying Data Analyst job pos
 
 
 
-![Top 10 Data Analyst Skills](images/data_analyst_skills_2023.png)
+![Top 8 Data Analyst Skills](images/data_analyst_skills_2023.png)
 
 
 
