@@ -10,7 +10,7 @@ I analyzed the skills required across the highest-paying Data Analyst job postin
 
 
 
-![Top 10 Data Analyst Skills](../images/data_analyst_skills_2023.png)
+![Top 10 Data Analyst Skills](images/data_analyst_skills_2023.png)
 
 
 
