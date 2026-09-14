@@ -2,11 +2,11 @@ Please refer to the project included in the projects\_sql folder titled 'query\_
 
 
 
-\## Skills Analysis
+## Skills Analysis
 
 
 
-I analyzed the skills required across the highest-paying Data Analyst job postings in 2023.
+I analyzed the skills required across the ***highest-paying Data Analyst job postings in 2023***.
 
 
 
@@ -14,17 +14,17 @@ I analyzed the skills required across the highest-paying Data Analyst job postin
 
 
 
-\### Key Findings
+### Key Findings
 
 
 
-\- \*\*SQL\*\* was the most frequently requested skill.
+- **SQL** was the most frequently requested skill.
 
-\- \*\*Python\*\* was the second most common.
+- **Python** was the second most common.
 
-\- \*\*Tableau\*\* was the most frequently requested visualization tool.
+- **Tableau** was the most frequently requested visualization tool.
 
-\- \*\*R, Pandas, and Excel\*\* were also commonly requested.
+- **R, Pandas, and Excel** were also commonly requested.
 
-\- Cloud and data-platform technologies such as \*\*Snowflake\*\* also appeared.
+- Cloud and data-platform technologies such as **Snowflake** also appeared.
 
