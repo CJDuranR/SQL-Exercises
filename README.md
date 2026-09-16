@@ -1,5 +1,7 @@
 # Introduction
 
+DISCLAIMER: The below case study is not of my original authority, as both questions and actual datasets came from data analyst youtuber Luke Barousse. Refer to the Background section for more on me.
+
 📊 **What are the highest-paying data analyst jobs, and what skills can help you get there?**
 
 This project analyzes **2023 job postings data** to uncover trends and insights that can help job seekers make more informed career decisions. By looking at factors such as **salary, required skills, number of job postings, and quarterly trends**, the goal is to better understand what the data tells us about the data analytics job market.
