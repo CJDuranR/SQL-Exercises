@@ -1,6 +1,6 @@
 # Introduction
 
-DISCLAIMER: The below case study is not of my original authority, as both questions and actual datasets came from data analyst youtuber Luke Barousse. Refer to the Background section for more on me.
+DISCLAIMER: The below case study is not of my original authority, as both questions and actual datasets came from data analyst youtuber Luke Barousse. Refer to the [Background](https://github.com/CJDuranR/SQL-Exercises/tree/main#background) section for more on me.
 
 📊 **What are the highest-paying data analyst jobs, and what skills can help you get there?**
 
